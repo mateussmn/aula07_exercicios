@@ -7,5 +7,5 @@ def calcular_media(valores: List[float]) -> float:
     media = sum(valores) / len(valores)
     return media
 
-media = calcular_media(valores)
+media: float = calcular_media(valores)
 print(media)
