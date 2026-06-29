@@ -1,4 +1,6 @@
 #Filtrar Dados Acima de um Limite
+from typing import List
+
 valores = [4,6,8,9,22,42]
 
 def filtrar_acima_de(valores: List[float], limite: float) -> List[float]:
