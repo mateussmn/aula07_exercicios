@@ -1,0 +1,1 @@
+#Calcular Desvio Padrão de uma Lista
